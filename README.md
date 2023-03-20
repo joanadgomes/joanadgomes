@@ -24,7 +24,7 @@ I am Joana Gomes, a full stack web developer based out of Lisbon. I have just fi
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=joanadgomes&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+!Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=joanadgomes_GitHub_jaoandgomes&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanadgomes&hide=TeX&layout=compact&theme=prussian)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=joanadgomes.joanadgomes)
