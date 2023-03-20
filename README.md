@@ -3,7 +3,7 @@
 
 I am Joana Gomes, a full stack web developer based out of Lisbon. I have just finished my web development bootcamp at Ironhack. Now, taking my first steps in this new world, I am devoted and enthusiastic to develop my knowledge in the software development industry. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/joanadgomes/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/in/joanadgomes/)]
 
 ## Skills
 
@@ -29,4 +29,4 @@ I am Joana Gomes, a full stack web developer based out of Lisbon. I have just fi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeel91&hide=TeX&layout=compact&theme=prussian)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
-view rawREADME.txt hosted with ❤ by GitHub
+hosted with ❤ by GitHub
